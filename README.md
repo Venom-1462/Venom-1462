@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Shreyas Sharma!
 
-<!--
-**Venom-1462/Venom-1462** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 B.Tech CSE (AI & ML) Student | VIT-AP University | 2028
 
-Here are some ideas to get you started:
+I'm passionate about artificial intelligence, machine learning, and software development. I'm currently learning how to build intelligent systems and scalable applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tools & Technologies I Work With:
+- **Languages**: Python, Java, C++
+- **AI/ML**: scikit-learn, TensorFlow, pandas, NumPy
+- **Web**: HTML, CSS, JavaScript
+- **Version Control**: Git & GitHub
+
+---
+
+### 🚀 Current Goals
+- Master Machine Learning algorithms
+- Contribute to open-source projects
+- Build cool personal projects using AI
+
+---
+
+### 📌 Projects Coming Soon
+- Face Recognition Attendance System
+- AI-Powered Chatbot for College Queries
+- GitHub Contribution Visualizer
+
+---
+
+### 📫 Get in Touch
+- **Email**: shreyas.sharma2028@vitapstudent.ac.in
+- **LinkedIn**: [linkedin.com/in/shreyas-sharma](#) *(update link)*
+- **Portfolio**: (coming soon!)
+
+Thanks for stopping by! Let's connect and build something awesome together.
