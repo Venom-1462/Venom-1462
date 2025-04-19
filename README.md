@@ -29,8 +29,8 @@ I'm passionate about artificial intelligence, machine learning, and software dev
 ---
 
 ### 📫 Get in Touch
-- **Email**: shreyas.sharma2028@vitapstudent.ac.in
-- **LinkedIn**: [linkedin.com/in/shreyas-sharma](#) *(update link)*
+- **Email**: shreyas.24bca7045@vitapstudent.ac.in
+- **LinkedIn**: [coming soon!](#)
 - **Portfolio**: (coming soon!)
 
 Thanks for stopping by! Let's connect and build something awesome together.
